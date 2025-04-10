@@ -13,6 +13,6 @@ _wisard, not wizard._ - __wisard__
 
 #### personal information
 >[git](https://git.wisard.me/wisard)\
->[github](https://github.com/wisardz)\ (this is a mirror)
+>[github](https://github.com/wisardz) (this is a mirror)\
 >[email](mailto:wisard@tutanota.com)\
 >[gpg](https://git.wisard.me/wisard/.profile/src/branch/main/pub-wisard.asc)
